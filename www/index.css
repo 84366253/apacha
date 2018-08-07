@@ -1,0 +1,12 @@
+body,html{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+body{
+    background: linear-gradient(to right, red,green,yellow,pink,tomato)
+}
+h2{
+    text-align: center;
+}
